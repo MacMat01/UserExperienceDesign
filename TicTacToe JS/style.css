@@ -1,0 +1,18 @@
+.mainpanel {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: auto auto auto;
+}
+
+.messagepanel {
+    align-items: center;
+    justify-content: center;
+}
+
+.cell {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    background-size: 100px;
+}
